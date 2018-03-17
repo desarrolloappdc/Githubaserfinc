@@ -3,7 +3,13 @@
 <head>
 	<title></title>
 </head>
-<body>
+<style type="text/css">
+	*{
+		padding: 0;
+		margin: 0;
+	}
+</style>
+<body style="background-color: gray">
 
 </body>
 </html>
