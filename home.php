@@ -13,9 +13,10 @@
 </head>
 <body>
 
-
-
-					<div class="row">
+<ul class="collapsible" data-collapsible="accordion">
+    <li>
+      <div class="collapsible-header"><i class="material-icons">filter_drama</i>Login</div>
+      <div class="collapsible-body"><div class="row">
 						<div class="col s3"></div>
 
 					  	
@@ -41,6 +42,17 @@
 					    </form>
 					    <div class="col s3"></div>
 					 </div>
+					</div>
+    </li>
+    <li>
+      <div class="collapsible-header"><i class="material-icons">place</i>Perfil</div>
+      <div class="collapsible-body">
+      	
+      </div>
+    </li>
+  </ul>
+
+					
 
 
 
