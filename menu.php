@@ -35,7 +35,7 @@
   		</button>
   	</a>
 
-  	<a href="noticias.php" target="vista" >
+  	<a href="crear_noticias.php" target="vista" >
   		<button class="btn waves-effect waves-light col s11" type="submit" name="action">noticias
     		<i class="material-icons right">send</i>
   		</button>
