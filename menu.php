@@ -8,7 +8,7 @@
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 </head>
 
-<body style="background-color: gray" class="row">
+<body class="row">
 
 	<a href="home.php" target="vista" >
 		<button class="btn waves-effect waves-light col s11" type="submit" name="action"  >login
